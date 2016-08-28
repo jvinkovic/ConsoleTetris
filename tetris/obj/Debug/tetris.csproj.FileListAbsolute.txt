@@ -1,0 +1,5 @@
+D:\Projekti\VSProjekti\tetris\tetris\bin\Debug\tetris.exe.config
+D:\Projekti\VSProjekti\tetris\tetris\bin\Debug\tetris.exe
+D:\Projekti\VSProjekti\tetris\tetris\bin\Debug\tetris.pdb
+D:\Projekti\VSProjekti\tetris\tetris\obj\Debug\tetris.exe
+D:\Projekti\VSProjekti\tetris\tetris\obj\Debug\tetris.pdb
